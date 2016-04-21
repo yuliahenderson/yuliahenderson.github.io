@@ -13,7 +13,7 @@ text-align: center;
 }
 li {
 	display: inline;
-	float: left;
+	float: right;
 	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
     padding: 8px;
