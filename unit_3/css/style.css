@@ -5,7 +5,9 @@ div {
 	width:100%;
 }
 h1 {
-font-family: "Familiar Pro";
+font-family: "Familiar Pro", monospace;
 font-size: 36px;
 color: #FFFFFF;
+font-weight: normal;
+text-align: center;
 }
