@@ -16,7 +16,9 @@ li {
 	float:right;
 	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
-    margin: 100px 50px 100px 600px;
     padding: 10px;
     color: #FFFFFF;
+}
+ul {
+	margin: 100px 50px 100px 600px;
 }
