@@ -16,9 +16,11 @@ li {
 	float:right;
 	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
-    padding: 10px;
+    padding: 20px;
     color: #FFFFFF;
 }
-/*ul {
-	margin: 100px 50px 100px 600px;
-}*/
+ul {
+	position: fixed;
+	top: 0;
+	width: 100%;
+}
