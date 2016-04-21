@@ -2,8 +2,8 @@ body {
 	background-color: #E4E3E8;
 }
 div {
-	background-size: auto 100%;
-	background-position: center top;
+	width: auto 100%;
+	position: center top;
 	height: 180px;
 }
 h1 {
