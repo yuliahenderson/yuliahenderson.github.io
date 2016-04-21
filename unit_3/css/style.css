@@ -12,5 +12,5 @@ font-weight: normal;
 text-align: center;
 }
 li {
-	float: right;
+	display: inline;
 }
