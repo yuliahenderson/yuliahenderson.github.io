@@ -1,8 +1,10 @@
 body {
 	background-color: #E4E3E8;
 }
-div {
-	width:100%;
+.hero-image {
+	background-size: auto 100%;
+	background-position: center top;
+	height: 180px;
 }
 h1 {
 font-family: "Familiar Pro", monospace;
