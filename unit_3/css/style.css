@@ -11,15 +11,12 @@ color: #FFFFFF;
 font-weight: normal;
 text-align: center;
 }
-ul {
+li {
+	display: inline;
+	float:right;
 	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
     margin: 0;
     padding: 10px;
-    width: 200px;
     color: #FFFFFF;
-}
-li {
-	display: inline;
-	float:right;
 }
