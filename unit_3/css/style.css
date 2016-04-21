@@ -11,3 +11,6 @@ color: #FFFFFF;
 font-weight: normal;
 text-align: center;
 }
+li {
+	float: right;
+}
