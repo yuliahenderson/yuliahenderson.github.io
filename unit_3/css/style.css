@@ -5,7 +5,7 @@ div {
 	width:100%;
 }
 h1 {
-font-family: "Familiar Pro", monospace;
+font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
 color: #FFFFFF;
 font-weight: normal;
@@ -13,4 +13,8 @@ text-align: center;
 }
 li {
 	display: inline;
+	float: left;
+	font-family: "FamiliarPro-Light", monospace;
+    font-size: 36px;
+    color: #000000;
 }
