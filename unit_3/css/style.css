@@ -4,4 +4,8 @@ body {
 div {
 	width:100%;
 }
-h1, p {color: #4682B4;}
+h1 {
+font-family: "Familiar Pro";
+font-size: 36px;
+color: #FFFFFF;
+}
