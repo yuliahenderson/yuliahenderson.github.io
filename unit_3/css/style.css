@@ -7,7 +7,7 @@ div {
 h1 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
-color: #FFFFFF;
+color: #000000;
 font-weight: normal;
 text-align: center;
 }
@@ -27,4 +27,5 @@ ul {
 }
 #below_the_fold {
 	background: #FFFFFF;
+	width: 100%;
 }
