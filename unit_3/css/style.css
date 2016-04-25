@@ -1,8 +1,8 @@
 body {
 	background-color: #E4E3E8;
 }
-div {
-	width:100%;
+/*div {
+	width:100%;*/
 }
 h1 {
 font-family: "FamiliarPro-Light", monospace;
@@ -48,5 +48,4 @@ font-size: 14px;
 color: #000000;
 font-weight: normal;
 text-align: center;
-
 }
