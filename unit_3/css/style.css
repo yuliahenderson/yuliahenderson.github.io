@@ -33,3 +33,20 @@ ul {
 	margin-left: auto;
     margin-right: auto;
 }
+
+h2 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 36px;
+color: #000000;
+font-weight: normal;
+text-align: center;
+}
+
+p {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 14px;
+color: #000000;
+font-weight: normal;
+text-align: center;
+
+}
