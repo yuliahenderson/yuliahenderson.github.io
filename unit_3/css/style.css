@@ -1,9 +1,9 @@
 body {
 	background-color: #E4E3E8;
 }
-/*div {
-	width:100%;
-}*/
+div {
+	margin: 0px 0px 0px 0px;
+}
 h1 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
