@@ -60,3 +60,15 @@ padding-left: 300px;
 padding-right: 300px;
 padding-bottom: 100px;
 }
+
+#pic_1 {
+width:287px; 
+height:402px; 
+background: img src="images/ceramic_vase.jpg" no-repeat; } 
+
+.product_text { width:287px; 
+height:402px; 
+background:#FFF; 
+opacity:0; } 
+
+
