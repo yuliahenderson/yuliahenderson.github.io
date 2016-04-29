@@ -32,8 +32,8 @@ ul {
 #below_the_fold {
 	background: #FFFFFF;
 	width: 100%;
-	position: relative;
-    top: -6px;
+	/*position: relative;
+    top: -6px;*/
 }
 .products {
 	margin-left: auto;
