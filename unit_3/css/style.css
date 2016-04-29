@@ -1,5 +1,6 @@
 body {
 	background-color: #E4E3E8;
+	margin:0;
 }
 div {
 	margin: 0px 0px 0px 0px;
@@ -31,6 +32,8 @@ ul {
 #below_the_fold {
 	background: #FFFFFF;
 	width: 100%;
+	position: relative;
+    top: -6px;
 }
 .products {
 	margin-left: auto;
