@@ -53,6 +53,7 @@ text-align: center;
 .text {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 14px;
+line-height: 1.5em;
 color: #000000;
 font-weight: normal;
 text-align: justify;
@@ -61,8 +62,6 @@ padding-right: 300px;
 padding-bottom: 100px;
 }
 
-.img {
-	
-}
+
 
 
