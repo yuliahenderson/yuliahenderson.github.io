@@ -50,27 +50,6 @@ font-weight: normal;
 text-align: center;
 }
 
-.pic {
-	width: 287px;
-	height: 402px;
-	background: url("images/ceramic_vase.jpg");
-}
-.ceramic_vase {
-	width: 200px
-	height:20px;
-	background: #FFF;
-	opacity: 0;
-}
-.pic:hover .ceramic_vase {
-	opacity: 0.6;
-	text-align: justify;
-	color: #000000;
-	font-size: 18px;
-	font-weight: normal;
-	font-family: "FamiliarPro-Light", monospace;
-	padding: 20px;
-}
-
 .text {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 14px;
