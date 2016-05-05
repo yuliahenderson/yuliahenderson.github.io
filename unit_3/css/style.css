@@ -50,6 +50,20 @@ font-weight: normal;
 text-align: center;
 }
 
+span.text-content {
+	background: rgba(0,0,0,0.5);
+	color: white;
+	cursor: pointer;
+	display: table;
+	height: 402px;
+	position: absolute;
+	padding-top: 200px;
+	width: 200px;
+}
+span.text-content span {
+	display: table-cell;
+	text-align: center;
+}
 .text {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 14px;
