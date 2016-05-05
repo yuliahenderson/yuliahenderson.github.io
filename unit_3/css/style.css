@@ -53,7 +53,7 @@ text-align: center;
 .pic {
 	width: 287px;
 	height: 402px;
-	background: "images/ceramic_vase.jpg"
+	background: url("images/ceramic_vase.jpg");
 }
 .ceramic_vase {
 	width: 200px
