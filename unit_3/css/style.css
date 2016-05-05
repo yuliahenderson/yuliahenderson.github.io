@@ -8,7 +8,7 @@ div {
 	margin: 0px 0px 0px 0px;
 }
 h1 {
-font-family: /*"FamiliarPro-Light" */"Cutive Mono", monospace;
+font-family: "Cutive Mono", monospace;
 font-size: 36px;
 color: #000000;
 font-weight: normal;
@@ -20,7 +20,7 @@ padding: 40px;
 li {
 	display: inline;
 	float:right;
-	font-family: /*"FamiliarPro-Light"*/ "Cutive Mono", monospace;
+	font-family: "Cutive Mono", monospace;
     font-size: 24px;
     padding: 40px;
     color: #FFFFFF;
@@ -45,7 +45,7 @@ li {
 }
 
 h2 {
-font-family: /*"FamiliarPro-Light"*/ "Cutive Mono", monospace;
+font-family: "Cutive Mono", monospace;
 font-size: 36px;
 color: #000000;
 font-weight: normal;
