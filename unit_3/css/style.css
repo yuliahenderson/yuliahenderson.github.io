@@ -15,13 +15,13 @@ margin-top: auto;
 margin-bottom: auto;
 padding: 40px;
 }
-li {
+/*li {
 	display: inline;
 	float:right;
 	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
     padding: 40px;
-    color: #FFFFFF;
+    color: #FFFFFF;*/
 }
 .header {
 	position: absolute;
