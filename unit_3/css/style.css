@@ -64,8 +64,9 @@ padding-bottom: 100px;
 
 .footer {
 font-family: "FamiliarPro-Light", monospace;
-font-size: 14px;
+font-size: 24px;
 color: #FFFFFF;
+position: center;
 
 }
 
