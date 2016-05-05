@@ -1,5 +1,3 @@
-@import url (<link href='https://fonts.googleapis.com/css?family=Cutive+Mono' rel='stylesheet' type='text/css'>)
-
 body {
 	background-color: #E4E3E8;
 	/*margin:0;*/
@@ -8,7 +6,7 @@ div {
 	margin: 0px 0px 0px 0px;
 }
 h1 {
-font-family: "Cutive Mono", monospace;
+font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
 color: #000000;
 font-weight: normal;
@@ -20,7 +18,7 @@ padding: 40px;
 li {
 	display: inline;
 	float:right;
-	font-family: "Cutive Mono", monospace;
+	font-family: "FamiliarPro-Light", monospace;
     font-size: 24px;
     padding: 40px;
     color: #FFFFFF;
@@ -45,7 +43,7 @@ li {
 }
 
 h2 {
-font-family: "Cutive Mono", monospace;
+font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
 color: #000000;
 font-weight: normal;
