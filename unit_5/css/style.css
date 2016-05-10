@@ -32,7 +32,7 @@ li {
 #below_the_fold {
 	background: #FFFFFF;
 	width: 100%;
-	position: relative;
+	position: inherit;
     top: -6px;
 }
 .products {
