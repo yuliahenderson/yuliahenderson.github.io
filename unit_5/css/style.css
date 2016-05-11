@@ -6,11 +6,8 @@ body {
 	margin: 0px 0px 0px 0px;
 }*/
 header {
-	/*background-color: #FFED74;*/
+	background-color: #FFED74;
 	width: 1260px;
-}
-#nav_one {
-	background-color:#E8C66A;
 }
 article {
 	background-color: #E89C6C;
