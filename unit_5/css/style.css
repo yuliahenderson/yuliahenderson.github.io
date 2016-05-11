@@ -79,10 +79,14 @@ text-align: justify;
 padding: 0 300px 100px 300px;
 }
 
-.footer {
+footer {
+	background-color: #FF957E;
+	position: relative;
+}
+
+.social_media {
 	background-color: #FF957E;
 	padding-left: 43%;
-	position: relative;
 }
 a {
 	padding: 15px;
