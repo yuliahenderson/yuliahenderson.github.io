@@ -73,7 +73,7 @@ span.text-content span {
 }*/
 .about {
 	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-bottom: 3em;
 }
 .text {
 font-family: "FamiliarPro-Light", monospace;
@@ -82,7 +82,7 @@ line-height: 1.5em;
 color: #000000;
 font-weight: normal;
 text-align: justify;
-padding: 0 300px 100px 300px;
+padding: 0 300px 0px 300px;
 }
 
 footer {
