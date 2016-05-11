@@ -12,6 +12,9 @@ header {
 article {
 	background-color: #E89C6C;
 }
+aside {
+	background-color: #FFC675;
+}
 h1 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
