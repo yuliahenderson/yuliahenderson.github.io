@@ -37,7 +37,7 @@ li {
 }
 #below_the_fold {
 	background: #E89C6C;
-	width: 100%;
+	width: 1260px;
 	position: relative;
     top: -6px;
 }
@@ -80,7 +80,7 @@ padding: 0 300px 100px 300px;
 footer {
 	background-color: #FF957E;
 	position: relative;
-	width: 100%;
+	width: 1260px;
 	top:-22px;
 }
 
