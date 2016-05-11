@@ -73,6 +73,7 @@ span.text-content span {
 }*/
 .about {
 	padding-top: 20px;
+	padding-bottom: 20px;
 }
 .text {
 font-family: "FamiliarPro-Light", monospace;
