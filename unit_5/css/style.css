@@ -76,9 +76,7 @@ line-height: 1.5em;
 color: #000000;
 font-weight: normal;
 text-align: justify;
-padding-left: 300px;
-padding-right: 300px;
-padding-bottom: 100px;
+padding: 0 300px 100px 300px;
 }
 
 .footer {
