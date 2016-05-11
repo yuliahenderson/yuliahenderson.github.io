@@ -5,6 +5,9 @@ body {
 /*#below_the_fold {
 	margin: 0px 0px 0px 0px;
 }*/
+header {
+	background-color: #FFED74;
+}
 h1 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
