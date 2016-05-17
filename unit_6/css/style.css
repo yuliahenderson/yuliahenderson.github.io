@@ -6,14 +6,14 @@ body {
 	margin: 0px 0px 0px 0px;
 }*/
 header {
-	background-color: #FFED74;
+	background-color: #E4E3E8;
 	width: 1260px;
 }
 article {
-	background-color: #E89C6C;
+	background-color: #FFFFFF;
 }
 aside {
-	background-color: #FFC675;
+	background-color: #FFFFFF;
 }
 h1 {
 font-family: "FamiliarPro-Light", monospace;
@@ -40,7 +40,7 @@ li {
 	width: 100%;
 }
 #below_the_fold {
-	background: #E89C6C;
+	background: #FFFFFF;
 	width: 1260px;
 	position: relative;
     top: -6px;
@@ -86,7 +86,7 @@ padding: 0 300px 0px 300px;
 }
 
 footer {
-	background-color: #FF957E;
+	background-color: #E4E3E8;
 	position: relative;
 	width: 1260px;
 	top:-22px;
