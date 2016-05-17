@@ -1,0 +1,86 @@
+body {
+	background-color: #E4E3E8;
+	/*margin:0;*/
+}
+div {
+	margin: 0px 0px 0px 0px;
+}
+h1 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 36px;
+color: #000000;
+font-weight: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: auto;
+padding: 40px;
+}
+li {
+	display: inline;
+	float:right;
+	font-family: "FamiliarPro-Light", monospace;
+    font-size: 24px;
+    padding: 40px;
+    color: #FFFFFF;
+}
+.header {
+	position: absolute;
+	top: 0;
+	right:100px;
+	width: 100%;
+}
+#below_the_fold {
+	background: #FFFFFF;
+	width: 100%;
+	position: relative;
+    top: -6px;
+}
+.products {
+	margin-left: 10px;
+    margin-right: 10px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+h2 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 36px;
+color: #000000;
+font-weight: normal;
+text-align: center;
+}
+
+/*span.text-content {
+	background: rgba(0,0,0,0.5);
+	color: white;
+	cursor: pointer;
+	display: table;
+	height: 402px;
+	position: absolute;
+	width: 287px;
+}
+span.text-content span {
+	display: table-cell;
+	text-align: center;
+}*/
+.text {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 14px;
+line-height: 1.5em;
+color: #000000;
+font-weight: normal;
+text-align: justify;
+padding-left: 300px;
+padding-right: 300px;
+padding-bottom: 100px;
+}
+
+.footer {
+	padding-left: 43%;
+}
+a {
+	padding: 15px;
+}
+
+
+
