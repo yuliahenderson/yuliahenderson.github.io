@@ -88,11 +88,16 @@ padding: 40px;
     top: -6px;
     margin: 0px;
 }
-.products {
+img {
+	width: 287px;
+	height:402px;
+	padding: 10px;
+}
+/*.products {
 	border: 0px;
 	padding: 0px;
 	text-align: center;
-}
+}*/
 
 h2 {
 font-family: "FamiliarPro-Light", monospace;
