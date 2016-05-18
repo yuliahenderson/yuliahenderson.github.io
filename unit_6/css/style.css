@@ -98,9 +98,9 @@ padding: 40px;
 }
 
 
-.product-image:hover {
+.product-image:hover .title {
 	background-color: #E4E3E8;
-	opacity: .4;	
+	opacity: 1;	
 }
 
 h2 {
