@@ -25,7 +25,7 @@ margin-top: auto;
 margin-bottom: auto;
 padding: 40px;
 }
-nav {
+/*nav {
 	background-color: #E4E3E8;
 	font-family: "FamiliarPro-Light", monospace;
 }
@@ -36,9 +36,9 @@ a {
 	display: block;
 	font-size: 24px;
 	float: right;
-	padding: 40px;
+	padding: 40px;*/
 }
-a:hover {
+li:hover {
 	background-color: #FFFFFF;
 }
 .clearfix:after {
@@ -49,7 +49,7 @@ a:hover {
 	clear:both;
 	height: 0;
 }
-/*li {
+li {
 	display: inline;
 	float:right;
 	font-family: "FamiliarPro-Light", monospace;
@@ -62,7 +62,7 @@ a:hover {
 	top: 0;
 	right:100px;
 	width: 100%;
-}*/
+}
 #below_the_fold {
 	background: #FFFFFF;
 	width: 1260px;
