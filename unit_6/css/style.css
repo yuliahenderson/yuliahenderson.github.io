@@ -1,6 +1,6 @@
 body {
 	background-color: #E4E3E8;
-	/*margin:0;*/
+	margin:0;
 }
 /*#below_the_fold {
 	margin: 0px 0px 0px 0px;
@@ -45,7 +45,6 @@ nav a:hover {
 	clear:both;
 	height: 0;
 }
-
 #hero_image {
 	display: block;
 	width: 100%;
@@ -87,6 +86,7 @@ padding: 40px;
 	width: 1260px;
 	position: relative;
     top: -6px;
+    margin: 0px;
 }
 .products {
 	border: 0px;
