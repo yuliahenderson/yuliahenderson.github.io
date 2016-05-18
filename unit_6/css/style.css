@@ -9,21 +9,15 @@ header {
 	background-color: #E4E3E8;
 	width: 1260px;
 }
-article {
-	background-color: #FFFFFF;
+div {
+	width:50%;
+	display: inline-block;
 }
-aside {
-	background-color: #FFFFFF;
+#logo {
+	float:left;
 }
-h1 {
-font-family: "FamiliarPro-Light", monospace;
-font-size: 36px;
-color: #000000;
-font-weight: normal;
-text-align: center;
-margin-top: auto;
-margin-bottom: auto;
-padding: 40px;
+#navigation {
+float: right;
 }
 nav {
 	background-color: #E4E3E8;
@@ -50,6 +44,23 @@ nav a:hover {
 	clear:both;
 	height: 0;
 }
+article {
+	background-color: #FFFFFF;
+}
+aside {
+	background-color: #FFFFFF;
+}
+h1 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 36px;
+color: #000000;
+font-weight: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: auto;
+padding: 40px;
+}
+
 /*li {
 	display: inline;
 	float:right;
