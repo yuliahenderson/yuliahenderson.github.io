@@ -28,12 +28,17 @@ padding: 40px;
 nav {
 	background-color: #E4E3E8;
 	font-family: "FamiliarPro-Light", monospace;
+	position: absolute;
+	top: 0;
+	right: 100px;
+	width: 100%;
 }
 a {
 	background-color: #E4E3E8;
 	color: #FFFFFF;
 	text-decoration: none;
 	display: block;
+	font-size: 24px;
 	float: right;
 	padding: 40px;
 }
