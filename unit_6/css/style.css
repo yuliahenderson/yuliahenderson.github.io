@@ -45,8 +45,15 @@ nav a:hover {
 	clear:both;
 	height: 0;
 }
-#hero_image {
+img {
+    display: block;
+    width:1260px;
 	clear: both;
+}
+#hero_image {
+	display: block;
+	width: 100%;
+	margin:0;
 }
 article {
 	background-color: #FFFFFF;
