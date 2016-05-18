@@ -10,7 +10,8 @@ header {
 	width: 1260px;
 }
 div {
-	width:50%;
+	width:48%;
+	padding: 1%;
 	display: inline-block;
 }
 #logo {
