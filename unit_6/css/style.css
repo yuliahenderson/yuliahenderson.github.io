@@ -10,7 +10,8 @@ header {
 	width: 1260px;
 }
 div {
-	width:50%;
+	width:46%;
+	padding: 2%;
 	display: inline-block;
 }
 #logo {
@@ -44,6 +45,9 @@ nav a:hover {
 	font-size: 0;
 	clear:both;
 	height: 0;
+}
+#hero_image {
+	clear: both;
 }
 article {
 	background-color: #FFFFFF;
