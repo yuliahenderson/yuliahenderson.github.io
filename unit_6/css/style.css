@@ -25,7 +25,30 @@ margin-top: auto;
 margin-bottom: auto;
 padding: 40px;
 }
-li {
+nav {
+	background-color: #E4E3E8;
+	font-family: "FamiliarPro-Light", monospace;
+}
+a {
+	background-color: #E4E3E8;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	float: right;
+	padding: 40px;
+}
+a:hover {
+	background-color: #FFFFFF;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	font-size: 0;
+	clear:both;
+	height: 0;
+}
+/*li {
 	display: inline;
 	float:right;
 	font-family: "FamiliarPro-Light", monospace;
@@ -38,7 +61,7 @@ li {
 	top: 0;
 	right:100px;
 	width: 100%;
-}
+}*/
 #below_the_fold {
 	background: #FFFFFF;
 	width: 1260px;
