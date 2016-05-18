@@ -91,23 +91,12 @@ padding: 40px;
 	text-align: center;
 }
 
-.product-item {
+.product-image {
 	width: 287px;
 	height:402px;
 	padding: 10px;
 }
 
-.product-item:hover .img-title {
-	opacity: 1;
-}
-.img-title {
-	text-align: center;
-}
-
-.img-title h3 {
-	text-align: center;
-	color: #FFFFFF
-}
 
 .product-image:hover {
 	background-color: #E4E3E8;
