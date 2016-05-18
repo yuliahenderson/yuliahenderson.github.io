@@ -91,6 +91,8 @@ padding: 40px;
 img {
 	width: 287px;
 	height:402px;
+	padding: 10px;
+	position: center;
 }
 /*.products {
 	border: 0px;
