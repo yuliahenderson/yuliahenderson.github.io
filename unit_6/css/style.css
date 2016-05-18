@@ -96,9 +96,19 @@ padding: 40px;
 	height:402px;
 	padding: 10px;
 }
-.product-image:hover {
+
+.product-text {
+	width: 287px;
+	height:402px;
 	background-color: #E4E3E8;
 	opacity: .4;
+	
+}
+.product-image:hover .product-text {
+	text-align: center;
+	font-family: "FamiliarPro-Light", monospace;
+	font-size: 14px;
+	color: #FFFFFF;
 }
 
 h2 {
