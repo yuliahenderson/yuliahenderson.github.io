@@ -40,7 +40,7 @@ nav a {
 }
 nav a:hover {
 	background-color: #E4E3E8;
-	opacity: .5;
+	opacity: .4;
 }
 .clearfix:after {
 	visibility: hidden;
