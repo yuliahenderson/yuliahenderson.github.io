@@ -45,11 +45,7 @@ nav a:hover {
 	clear:both;
 	height: 0;
 }
-img {
-    display: block;
-    width:1260px;
-	clear: both;
-}
+
 #hero_image {
 	display: block;
 	width: 100%;
