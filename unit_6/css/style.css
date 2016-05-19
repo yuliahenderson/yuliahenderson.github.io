@@ -103,32 +103,6 @@ padding: 40px;
 	opacity: .4;	
 }
 
-ul.img-list {
-	list-style-position: none;
-	margin: 0;
-	padding: 0;
-	text-align: center;
-}
-ul.img-list li {
-	display: inline-block;
-	height: 402px;
-	width: 287px;
-}
-
-span.product-content {
-	background-color: #E4E3E8;
-	color: white;
-	cursor: pointer;
-	display: table;
-}
-/*span.product-content span {
-	display: table-cell;
-	text-align: center;
-	vertical-align: middle;
-}*/
-ul.img-list li:hover span.product-content {
-	opacity: 1;
-}
 
 h2 {
 font-family: "FamiliarPro-Light", monospace;
