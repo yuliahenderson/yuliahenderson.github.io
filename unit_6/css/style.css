@@ -96,11 +96,6 @@ padding: 40px;
 	height:402px;
 	padding: 10px;
 }
-#img-1 {
-    width: 287px;
-	height:402px;
-	padding: 10px;
-}
 
 .product-name {
 	color: #FFFFFF;
@@ -108,15 +103,6 @@ padding: 40px;
 	font-size: 14px;
 	visibility: hidden;
 	text-align: center;
-}
-#img-1:hover .product-name {
-	visibility: visible;
-	opacity: 1;
-}
-
-.product-image:hover {
-	background-color: #E4E3E8;
-	opacity: .4;	
 }
 
 
