@@ -107,6 +107,7 @@ padding: 40px;
 	font-family: "FamiliarPro-Light", monospace;
 	font-size: 14px;
 	visibility: hidden;
+	text-align: center;
 }
 #img-1:hover .product-name {
 	visibility: visible;
