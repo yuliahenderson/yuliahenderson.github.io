@@ -112,19 +112,6 @@ font-weight: normal;
 text-align: center;
 }
 
-/*span.text-content {
-	background: rgba(0,0,0,0.5);
-	color: white;
-	cursor: pointer;
-	display: table;
-	height: 402px;
-	position: absolute;
-	width: 287px;
-}
-span.text-content span {
-	display: table-cell;
-	text-align: center;
-}*/
 .about {
 	padding-top: 20px;
 	padding-bottom: 3em;
@@ -152,7 +139,7 @@ footer {
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
-a {
+a.social_media {
 	padding: 15px;
 }
 
