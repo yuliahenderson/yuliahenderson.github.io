@@ -96,7 +96,22 @@ padding: 40px;
 	height:402px;
 	padding: 10px;
 }
+#img-1 {
+    width: 287px;
+	height:402px;
+	padding: 10px;
+}
 
+.product-name {
+	color: #FFFFFF;
+	font-family: "FamiliarPro-Light", monospace;
+	font-size: 14px;
+	visibility: hidden;
+}
+#img-1:hover .product-name {
+	visibility: visible;
+	opacity: 1;
+}
 
 .product-image:hover {
 	background-color: #E4E3E8;
