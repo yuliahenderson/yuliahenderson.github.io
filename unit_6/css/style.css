@@ -103,6 +103,14 @@ padding: 40px;
 	opacity: .4;	
 }
 
+#img_1 .product_name {
+	position: center;
+	visibility: hidden;
+}
+#img_1:hover .product_name {
+	visibility: visible;
+}
+
 h2 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 36px;
