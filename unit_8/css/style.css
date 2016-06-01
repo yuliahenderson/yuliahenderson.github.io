@@ -5,6 +5,7 @@ body {
 }
 
 .wrapper {
+	width: 100%;
 }
 header {
 	background-color: #E4E3E8;
