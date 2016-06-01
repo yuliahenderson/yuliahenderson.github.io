@@ -1,0 +1,145 @@
+body {
+	background-color: #E4E3E8;
+	margin:0;
+	font-size: 16px;
+}
+
+.wrapper {
+}
+header {
+	background-color: #E4E3E8;
+	width: 1260px;
+}
+
+#logo {
+	float:left;
+}
+.logo {
+	width: 200px;
+	height: 115px;
+	padding: 5px;
+}
+#navigation {
+    width:48%;
+	padding: 1%;
+	display: inline-block;
+    float: right;
+}
+nav {
+	background-color: #E4E3E8;
+	font-family: "FamiliarPro-Light", monospace;
+}
+nav a {
+	background-color: #E4E3E8;
+	color: #FFFFFF;
+	text-decoration: none;
+	display: block;
+	font-size: 1.5em;
+	float: right;
+	padding: 40px;
+}
+nav a:hover {
+	background-color: #E4E3E8;
+	opacity: .4;
+}
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	font-size: 0;
+	clear:both;
+	height: 0;
+}
+#hero_image {
+	display: block;
+	width: 100%;
+	margin:0;
+}
+.hero {
+	width: 1260px;
+	height: 483px;
+}
+article {
+	background-color: #FFFFFF;
+}
+aside {
+	background-color: #FFFFFF;
+}
+h1 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 2.25em;
+color: #000000;
+font-weight: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: auto;
+padding: 40px;
+}
+
+#below_the_fold {
+	background: #FFFFFF;
+	width: 1260px;
+	position: relative;
+    top: -14px;
+    margin: 0px;
+}
+
+.products {
+	border: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+.product-image {
+	width: 287px;
+	height:402px;
+	padding: 10px;
+}
+
+.product-image:hover {
+	background-color: #E4E3E8;
+	opacity: .4;	
+}
+
+
+h2 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 2.25em;
+color: #000000;
+font-weight: normal;
+text-align: center;
+}
+
+.about {
+	padding-top: 20px;
+	padding-bottom: 3em;
+}
+.text {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 0.875em;
+line-height: 1.5em;
+color: #000000;
+font-weight: normal;
+text-align: justify;
+padding: 0 300px 0px 300px;
+}
+
+footer {
+	background-color: #E4E3E8;
+	position: relative;
+	width: 1260px;
+	top:-22px;
+}
+
+.social_media {
+	background-color: #E4E3E8;
+	padding-left:43%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.social_media a {
+	padding: 15px;
+}
+
+
+
