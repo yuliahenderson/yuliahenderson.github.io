@@ -14,11 +14,14 @@ header {
 
 #logo {
 	float:left;
+	width: 15.873016%;
+	height: 115px;
+	padding: 0.3125em;
 }
 .logo {
-	width: 200px;
+	width: 15.873016%;
 	height: 115px;
-	padding: 5px;
+	padding: 0.3125em;
 }
 #navigation {
     width:48%;
@@ -37,7 +40,7 @@ nav a {
 	display: block;
 	font-size: 1.5em;
 	float: right;
-	padding: 40px;
+	padding: 2.5em;
 }
 nav a:hover {
 	background-color: #E4E3E8;
@@ -57,7 +60,7 @@ nav a:hover {
 	margin:0;
 }
 .hero {
-	width: 1260px;
+	width: 100%;
 	height: 483px;
 }
 article {
@@ -74,14 +77,14 @@ font-weight: normal;
 text-align: center;
 margin-top: auto;
 margin-bottom: auto;
-padding: 40px;
+padding: 2.5em;
 }
 
 #below_the_fold {
 	background: #FFFFFF;
-	width: 1260px;
+	width: 100%;
 	position: relative;
-    top: -14px;
+    top: -0.875em;
     margin: 0px;
 }
 
@@ -92,9 +95,9 @@ padding: 40px;
 }
 
 .product-image {
-	width: 287px;
+	width: 22.777778%;
 	height:402px;
-	padding: 10px;
+	padding: 0.625em;
 }
 
 .product-image:hover {
@@ -112,7 +115,7 @@ text-align: center;
 }
 
 .about {
-	padding-top: 20px;
+	padding-top: 1.25em;
 	padding-bottom: 3em;
 }
 .text {
@@ -122,24 +125,24 @@ line-height: 1.5em;
 color: #000000;
 font-weight: normal;
 text-align: justify;
-padding: 0 300px 0px 300px;
+padding: 0 18.75em 0px 18.75em;
 }
 
 footer {
 	background-color: #E4E3E8;
 	position: relative;
-	width: 1260px;
-	top:-22px;
+	width: 100%;
+	top:-1.375em;
 }
 
 .social_media {
 	background-color: #E4E3E8;
 	padding-left:43%;
-	padding-top: 20px;
-	padding-bottom: 20px;
+	padding-top: 1.25em;
+	padding-bottom: 1.25em;
 }
 .social_media a {
-	padding: 15px;
+	padding: 0.9375em;
 }
 
 
