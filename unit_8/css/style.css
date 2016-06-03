@@ -6,6 +6,7 @@ body {
 
 .wrapper {
 	width: 100%;
+	display: block;
 }
 header {
 	background-color: #FFFFFF;
