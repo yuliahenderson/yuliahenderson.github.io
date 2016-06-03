@@ -105,12 +105,12 @@ padding: 1.5em;
 	opacity: .4;	
 }
 
-.products.block {
+.wrapper.block {
 	width: 100%;
 	position: relative;
 }
 
-.products.block.content {
+.wrapper.block.content {
 	display: block;
 	margin: 0;
 	padding: 15px;
