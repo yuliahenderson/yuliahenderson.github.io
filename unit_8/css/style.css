@@ -24,7 +24,7 @@ header {
 }
 #navigation {
     width:48%;
-	padding: 1%;
+	/*padding: 1%;*/
 	display: inline-block;
     float: right;
 }
@@ -95,7 +95,7 @@ padding: 1.5em;
 
 .product-image {
 	width: 22.777778%;
-	height:31.904762%;
+	height:402px;
 	padding: 0.625em;
 }
 
