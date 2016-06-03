@@ -1,5 +1,5 @@
 body {
-	background-color: #E4E3E8;
+	background-color: #FFFFFF;
 	margin:0;
 	font-size: 16px;
 }
@@ -8,7 +8,7 @@ body {
 	width: 100%;
 }
 header {
-	background-color: #E4E3E8;
+	background-color: #FFFFFF;
 	width: 100%;
 }
 
@@ -29,12 +29,12 @@ header {
     float: right;
 }
 nav {
-	background-color: #E4E3E8;
+	background-color: #FFFFFF;
 	font-family: "FamiliarPro-Light", monospace;
 }
 nav a {
-	background-color: #E4E3E8;
-	color: #FFFFFF;
+	background-color: #FFFFFF;
+	color: #000000;
 	text-decoration: none;
 	display: block;
 	font-size: 1.5em;
