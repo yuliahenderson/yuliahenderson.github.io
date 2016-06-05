@@ -162,5 +162,14 @@ footer {
 	padding: 0.9375em;
 }
 
+@media screen only and (max-width: 1061px) {
+	body {
+		font-size: 12px;
+	}
+	#navigation {
+		float: none;
+		display: block;
+	}
+}
 
 
