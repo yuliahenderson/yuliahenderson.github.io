@@ -116,30 +116,20 @@ padding: 1.5em;
 	padding: 0.625em;
 }
 
-/*#ceramic_vase {
-	width: 22.777778%;
-	height:402px;
-	padding: 0.625em;
-}
-
-#ceramic_toys {
-	width: 22.777778%;
-	height:402px;
-	padding: 0.625em;
-}
-
-#painted_box {
-	width: 22.777778%;
-	height:402px;
-	padding: 0.625em;
-}*/
 
 .product-image:hover {
 	background-color: #E4E3E8;
 	opacity: .4;	
 }
 
-
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	font-size: 0;
+	clear:both;
+	height: 0;
+} 
 h3 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 2.25em;
