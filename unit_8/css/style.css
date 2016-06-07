@@ -64,6 +64,7 @@ nav a:hover {
 }
 article {
 	background-color: #FFFFFF;
+	float: left;
 }
 aside {
 	background-color: #FFFFFF;
