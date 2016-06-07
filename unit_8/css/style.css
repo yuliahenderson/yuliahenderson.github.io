@@ -3,7 +3,9 @@ body {
 	margin:0;
 	font-size: 16px;
 }
-
+.wrapper {
+	width: 100%;
+}
 
 header {
 	background-color: #FFFFFF;
@@ -85,15 +87,12 @@ padding: 1.5em;
     margin: 0px;
 }
 
-.products {
+#products {
 	border: 0px;
 	padding: 0px;
 	text-align: center;
 }
 
-.wrapper {
-	width: 100%;
-}
 
 .product-image {
 	width: 22.777778%;
