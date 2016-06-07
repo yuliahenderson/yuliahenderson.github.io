@@ -45,14 +45,7 @@ nav a:hover {
 	background-color: #E4E3E8;
 	opacity: .4;
 }
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	font-size: 0;
-	clear:both;
-	height: 0;
-}
+
 #hero_image {
 	display: block;
 	width: 100%;
@@ -129,7 +122,8 @@ padding: 1.5em;
 	font-size: 0;
 	clear:both;
 	height: 0;
-} 
+}
+
 h3 {
 font-family: "FamiliarPro-Light", monospace;
 font-size: 2.25em;
