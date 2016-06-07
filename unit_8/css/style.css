@@ -64,7 +64,6 @@ nav a:hover {
 }
 article {
 	background-color: #FFFFFF;
-	float: left;
 }
 aside {
 	background-color: #FFFFFF;
@@ -93,6 +92,11 @@ padding: 1.5em;
 	padding: 0px;
 	text-align: center;
 }
+
+#column_1, #column_2, #column_3, #column_4 {
+	float: left;
+}
+
 
 
 .product-image {
