@@ -93,11 +93,21 @@ padding: 1.5em;
 	text-align: center;
 }
 
-#column_1, #column_2, #column_3, #column_4 {
+#column_1 {
 	float: left;
 }
 
+#column_2 {
+	float: left;
+}
 
+#column_3 {
+	float: left;
+}
+
+#column_4 {
+	float: left;
+}
 
 .product-image {
 	width: 22.777778%;
