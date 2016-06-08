@@ -178,7 +178,7 @@ footer {
 }
 
 nav a {
-	display: block;
+	display: inline-block;
 	text-align: center;
 	font-size: 1em;
 }
@@ -193,22 +193,22 @@ h3 {
 
 #column_1 {
 	float: none;
-	width: 100%;
+	width: auto;
 }
 
 #column_2 {
 	float: none;
-	width: 100%;
+	width: auto;
 }
 
 #column_3 {
 	float: none;
-	width: 100%;
+	width: auto;
 }
 
 #column_4 {
 	float: none;
-	width: 100%;
+	width: auto;
 }
 
 .text {
