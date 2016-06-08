@@ -166,7 +166,7 @@ footer {
 	padding: 0.9375em;
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 1160px) {
 
 #column_1 {
 	float: none;
