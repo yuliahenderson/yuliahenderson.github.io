@@ -167,7 +167,7 @@ footer {
 }
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 375px){
 
 #logo {
 	float: none;
@@ -177,7 +177,7 @@ footer {
 	float: none;
 }
 
-nav a {
+/*nav a {
 	display: inline-block;
 	text-align: center;
 	font-size: 1em;
@@ -194,7 +194,7 @@ h1 {
 h3 {
 	font-size: 1.5em;
 }
-
+*/
 #column_1 {
 	float: none;
 	width: auto;
