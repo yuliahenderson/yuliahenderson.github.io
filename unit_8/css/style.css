@@ -167,7 +167,7 @@ footer {
 }
 
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 400px) {
 
 #logo {
 	float: none;
@@ -181,6 +181,14 @@ nav a {
 	display: block;
 	text-align: center;
 	font-size: 1em;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.5em;
 }
 
 #column_1 {
@@ -204,7 +212,11 @@ nav a {
 }
 
 .text {
-	text-align: auto;
+	text-align: justify;
 }
 
+.social_media {
+	padding: 20%;
+}
+}
 
