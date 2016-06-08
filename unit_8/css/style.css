@@ -167,6 +167,17 @@ footer {
 }
 
 @media only screen and (max-width: 1160px) {
+
+}
+
+@media only screen and (max-width: 320px) {
+
+nav a {
+	display: block;
+	text-align: center;
+	margin: 0;
+	font-size: 1em;
+}
 	#logo {
 		float: none;
 	}
@@ -190,15 +201,5 @@ footer {
 	#column_4 {
 		float: none;
 	}
-
-nav a {
-	display: block;
-	text-align: center;
-	margin: 0;
-	font-size: 1em;
 }
-
-
-}
-
 
