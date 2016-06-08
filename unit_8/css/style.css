@@ -193,26 +193,26 @@ h3 {
 
 #column_1 {
 	float: none;
-	width: auto;
+	width: 100%;
 }
 
 #column_2 {
 	float: none;
-	width: auto;
+	width: 100%;
 }
 
 #column_3 {
 	float: none;
-	width: auto;
+	width: 100%;
 }
 
 #column_4 {
 	float: none;
-	width: auto;
+	width: 100%;
 }
 
 .text {
-	text-align: justify;
+	width: 100%
 }
 
 .social_media {
