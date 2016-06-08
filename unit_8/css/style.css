@@ -183,6 +183,10 @@ nav a {
 	font-size: 1em;
 }
 
+article {
+	width: 100%;
+}
+
 h1 {
 	font-size: 1.5em;
 }
@@ -193,18 +197,22 @@ h3 {
 
 #column_1 {
 	float: none;
+	width: auto;
 }
 
 #column_2 {
 	float: none;
+	width: auto;
 }
 
 #column_3 {
 	float: none;
+	width: auto;
 }
 
 #column_4 {
 	float: none;
+	width: auto;
 }
 
 .text {
