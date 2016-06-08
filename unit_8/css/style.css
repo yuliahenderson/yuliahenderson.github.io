@@ -166,26 +166,39 @@ footer {
 	padding: 0.9375em;
 }
 
-@media screen only and (max-width: 1061px) {
-	body {
-		font-size: 12px;
-	}
+@media only screen and (max-width: 1160px) {
 	#logo {
 		float: none;
 	}
+
 	#navigation {
 		float: none;
-		display: block;
 	}
 
-	nav a {
+	#column_1 {
 		float: none;
-		font-size: 1em;
 	}
 
-	h1 {
-		font-size: 2em;
+	#column_2 {
+		float: none;
 	}
+
+	#column_3 {
+		float: none;
+	}
+
+	#column_4 {
+		float: none;
+	}
+
+nav a {
+	display: block;
+	text-align: center;
+	margin: 0;
+	font-size: 1em;
+}
+
+
 }
 
 
