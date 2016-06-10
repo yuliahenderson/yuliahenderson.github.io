@@ -24,7 +24,7 @@ header {
 	padding: 0.3125em;
 }
 #navigation {
-    width:38%;
+    width:32%;
 	padding: 1%;
 	display: inline-block;
     float: right;
@@ -176,6 +176,7 @@ footer {
 	}
 	#navigation {
 		float: none;
+		display: inline;
 	}
 	#column_1 {
 		float: none;
