@@ -169,7 +169,7 @@ footer {
 	padding: 0.9375em;
 }
 
-/*@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 375px) {
 
 	#logo {
 		float: none;
@@ -193,4 +193,4 @@ footer {
 		float: none;
 		width: auto;
 	}
-	}*/
+	}
