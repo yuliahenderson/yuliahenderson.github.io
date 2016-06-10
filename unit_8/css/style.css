@@ -177,6 +177,10 @@ footer {
 	#navigation {
 		float: none;
 	}*/
+
+	#navigation {
+		margin:0;
+	}
 	#column_1 {
 		float: none;
 		width: auto;
@@ -193,4 +197,6 @@ footer {
 		float: none;
 		width: auto;
 	}
+	.text {
+		padding: 0;
 	}
