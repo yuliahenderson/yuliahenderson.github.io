@@ -173,6 +173,7 @@ footer {
 
 	#logo {
 		float: none;
+		width: 100%;
 	}
 	#navigation {
 		float: none;
