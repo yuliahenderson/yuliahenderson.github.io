@@ -182,6 +182,10 @@ footer {
 		margin:0;
 		padding: 0;
 	}
+
+	h1, h3 {
+		font-size: 1.5em;
+	}
 	#column_1 {
 		float: none;
 		width: auto;
