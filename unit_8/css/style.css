@@ -171,14 +171,12 @@ footer {
 
 @media only screen and (max-width: 375px) {
 
-	#logo {
+/*	#logo {
 		float: none;
-		width: 100%;
 	}
 	#navigation {
 		float: none;
-		display: inline;
-	}
+	}*/
 	#column_1 {
 		float: none;
 		width: auto;
