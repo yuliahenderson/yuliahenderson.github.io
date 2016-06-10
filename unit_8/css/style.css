@@ -179,6 +179,7 @@ footer {
 	}*/
 
 	#navigation {
+		width: 28%;
 		margin:0;
 		padding: 0;
 	}
@@ -188,7 +189,7 @@ footer {
 	}
 
 	h1, h3 {
-		font-size: 1em;
+		font-size: 1.2em;
 	}
 	#column_1 {
 		float: none;
