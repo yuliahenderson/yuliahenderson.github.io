@@ -27,7 +27,7 @@ header {
     width:48%;
 	padding: 1%;
 	display: inline-block;
-    float: right;
+    float: left;
 }
 nav {
 	background-color: #FFFFFF;
