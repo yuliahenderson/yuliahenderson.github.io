@@ -27,7 +27,7 @@ header {
     width:48%;
 	padding: 1%;
 	display: inline-block;
-    float: left;
+    float: right;
 }
 nav {
 	background-color: #FFFFFF;
@@ -40,7 +40,7 @@ nav a {
 	text-decoration: none;
 	display: block;
 	font-size: 1.2em;
-	float: right;
+	float: left;
 	padding: 0.5em;
 	margin-top: 1.5em;
 	margin-right: 1.5em;
