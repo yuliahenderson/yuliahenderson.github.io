@@ -174,7 +174,7 @@ footer {
 	padding: 0.9375em;
 }*/
 
-nav a.social_media {
+nav a#social_media {
 	background-color: #E4E3E8;
 }
 
