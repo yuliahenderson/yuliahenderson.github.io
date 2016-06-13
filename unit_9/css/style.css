@@ -1,0 +1,212 @@
+body {
+	background-color: #FFFFFF;
+	margin:0;
+	font-size: 16px;
+}
+.wrapper {
+	width: 100%;
+	margin: 0; 
+}
+
+header {
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+#logo {
+	float:left;
+	width: 15.873016%;
+	height: 9.126984%;
+	padding: 0.3125em;
+}
+.logo {
+	height: 115px;
+	padding: 0.3125em;
+}
+#navigation {
+    width:32%;
+	padding: 1%;
+	display: inline-block;
+    float: right;
+}
+nav {
+	background-color: #FFFFFF;
+	font-family: "FamiliarPro-Light", monospace;
+	padding: 1em;
+}
+nav a {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	font-size: 1.2em;
+	float: left;
+	padding: 0.5em;
+	margin-top: 1.5em;
+	margin-right: 1.5em;
+}
+nav a:hover {
+	background-color: #E4E3E8;
+	opacity: .4;
+}
+
+#hero_image {
+	display: block;
+	width: 100%;
+	/*margin:0;*/
+}
+.hero {
+	width: 100%;
+	height: 38.333333%;
+}
+article {
+	background-color: #FFFFFF;
+	width: 25%;
+}
+aside {
+	background-color: #FFFFFF;
+}
+h1 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 2.25em;
+color: #000000;
+font-weight: normal;
+text-align: center;
+margin-top: auto;
+margin-bottom: auto;
+padding: 1.5em;
+}
+
+#below_the_fold {
+	background: #FFFFFF;
+	width: 100%;
+	position: relative;
+    top: -0.875em;
+    margin: 0px;
+}
+
+#products {
+	border: 0px;
+	padding: 0px;
+	text-align: center;
+}
+
+#column_1 {
+	float: left;
+}
+
+#column_2 {
+	float: left;
+}
+
+#column_3 {
+	float: left;
+}
+
+#column_4 {
+	float: left;
+}
+
+.product-image {
+	width: 100%;
+	height:100%;
+	padding: 0.625em;
+	display: block;
+}
+
+.product-image:hover {
+	background-color: #E4E3E8;
+	opacity: .4;	
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	font-size: 0;
+	clear:both;
+	height: 0;
+}
+
+h3 {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 2.25em;
+color: #000000;
+font-weight: normal;
+text-align: center;
+padding: 1em;
+}
+
+.about {
+padding-top: 1.25em;
+padding-bottom: 4em;
+}
+.text {
+font-family: "FamiliarPro-Light", monospace;
+font-size: 0.875em;
+line-height: 1.5em;
+color: #000000;
+font-weight: normal;
+text-align: justify;
+padding: 0 18.75em 0px 18.75em;
+}
+
+footer {
+	background-color: #E4E3E8;
+	position: relative;
+	width: 100%;
+	height: 1.25em;
+	top:-1.375em;
+}
+
+.social_media {
+	background-color: #E4E3E8;
+	padding-left:43%;
+	padding-top: 1.25em;
+	padding-bottom: 1.25em;
+}
+.social_media a {
+	padding: 0.9375em;
+}
+
+@media only screen and (max-width: 375px) {
+
+/*	#logo {
+		float: none;
+	}
+	#navigation {
+		float: none;
+	}*/
+
+	#navigation {
+		width: 20%;
+		margin:0;
+		padding: 0;
+	}
+
+	nav a {
+		font-size: 0.7em;
+	}
+
+	h1, h3 {
+		font-size: 1.2em;
+	}
+	#column_1 {
+		float: none;
+		width: auto;
+	}
+	#column_2 {
+		float: none;
+		width: auto;
+	}
+	#column_3 {
+		float: none;
+		width: auto;
+	}
+	#column_4 {
+		float: none;
+		width: auto;
+	}
+	.text {
+		padding: 0.2em;
+	}
