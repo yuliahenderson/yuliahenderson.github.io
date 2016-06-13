@@ -63,6 +63,7 @@ article {
 	background-color: #FFFFFF;
 	width: 24.6%;
 }
+
 /*#ceramic_vase {
 	width:400px;
     border:1px solid #000;
@@ -171,6 +172,10 @@ footer {
 }
 #social_media nav a {
 	padding: 0.9375em;
+}
+
+nav a.social_media {
+	background-color: #E4E3E8
 }
 
 @media only screen and (max-width: 375px) {
