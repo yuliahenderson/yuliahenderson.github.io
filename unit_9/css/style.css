@@ -158,13 +158,13 @@ footer {
 	top:-1.375em;
 }
 
-nav social_media {
+#social_media {
 	background-color: #E4E3E8;
 	padding-left:43%;
 	padding-top: 1.25em;
 	padding-bottom: 1.25em;
 }
-nav social_media a {
+#social_media a {
 	padding: 0.9375em;
 }
 
