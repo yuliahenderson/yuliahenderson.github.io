@@ -25,7 +25,7 @@ header {
 }
 #navigation {
     width:32%;
-	padding: 1%;
+	padding: 1% 0 1% 1%;
 	display: inline-block;
     float: right;
 }
@@ -61,8 +61,14 @@ nav a:hover {
 }
 article {
 	background-color: #FFFFFF;
-	width: 25%;
+	width: 24.6%;
 }
+
+/*#ceramic_vase {
+	width:400px;
+    border:1px solid #000;
+}*/
+
 aside {
 	background-color: #FFFFFF;
 }
@@ -160,15 +166,27 @@ footer {
 
 #social_media {
 	background-color: #E4E3E8;
-	padding-left:43%;
-	padding-top: 1.25em;
-	padding-bottom: 1.25em;
+	width: 20%;
+	padding: 0 33em 0 33em;
 }
-#social_media a {
+/*#social_media nav a {
 	padding: 0.9375em;
+}*/
+
+li a {
+	background-color: #E4E3E8;
+	margin: 1em;
 }
 
+
 @media only screen and (max-width: 375px) {
+
+/*	#logo {
+		float: none;
+	}
+	#navigation {
+		float: none;
+	}*/
 
 	#navigation {
 		width: 20%;
