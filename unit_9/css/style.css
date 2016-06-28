@@ -171,7 +171,7 @@ footer {
 	padding: 0.9375em;
 }*/
 
-nav a#social_media.clearfix {
+li {
 	background-color: #E4E3E8;
 	margin: 1.5em;
 }
