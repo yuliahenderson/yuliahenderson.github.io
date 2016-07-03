@@ -175,11 +175,12 @@ footer {
 }*/
 
 .facebook {
-
+float: right;
 margin: 1em;
 }
 
 .instagram {
+	float: left;
 	margin: 1em;
 }
 
