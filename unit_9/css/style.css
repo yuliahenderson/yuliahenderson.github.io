@@ -167,7 +167,7 @@ footer {
 
 #social_media {
 	background: #E4E3E8;
-	width: 20%;
+	width: 100%;
 	margin: 0 auto;
 }
 
@@ -220,10 +220,10 @@ footer {
 		padding: 0;
 		margin: 0 auto;
 	}
-	#social_media {
+/*	#social_media {
 	background-color: #E4E3E8;
 	width: 35%;
-}
+}*/
 
 .facebook {
 	padding: 0 1em;
@@ -235,8 +235,5 @@ footer {
 
 @media only screen and (max-width: 350px) {
 
-	#social_media {
-		width: 80%;
-	}
 
 }
