@@ -154,7 +154,8 @@ line-height: 1.5em;
 color: #000000;
 font-weight: normal;
 text-align: justify;
-margin: 0 18.75em 0px 18.75em;
+padding: 0 18em;
+margin: 0 auto;
 }
 
 footer {
