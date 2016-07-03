@@ -233,3 +233,10 @@ footer {
 	padding: 0 1em;
 }
 
+@media only screen and (max-width: 350px) {
+
+	#social_media {
+		width: 80%;
+	}
+
+}
