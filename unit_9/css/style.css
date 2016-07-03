@@ -174,11 +174,14 @@ footer {
 	padding: 0.9375em;
 }*/
 
-section a {
-	background-color: #E4E3E8;
-	margin: 1em;
+.facebook {
+
+margin: 1em;
 }
 
+.instagram {
+	margin: 1em;
+}
 
 @media only screen and (max-width: 375px) {
 
