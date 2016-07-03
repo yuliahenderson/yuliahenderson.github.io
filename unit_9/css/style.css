@@ -200,7 +200,7 @@ footer {
 	h1, h3 {
 		font-size: 1.2em;
 	}
-	#column_1 {
+	/*#column_1 {
 		float: none;
 		width: auto;
 	}
@@ -215,7 +215,7 @@ footer {
 	#column_4 {
 		float: none;
 		width: auto;
-	}
+	}*/
 	.text {
 		padding: 0;
 		margin: 0 auto;
