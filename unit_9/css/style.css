@@ -219,5 +219,6 @@ li a {
 		width: auto;
 	}
 	.text {
-		margin: 0 2em 0 2em;
+		padding: 0;
+		margin: 0 auto;
 	}
