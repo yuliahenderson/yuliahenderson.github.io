@@ -166,25 +166,19 @@ footer {
 }
 
 #social_media {
-	background-color: #E4E3E8;
+	background: #E4E3E8;
 	width: 20%;
-	padding: 0 33em 0 33em;
+	margin: 0 auto;
 }
-/*#social_media nav a {
-	padding: 0.9375em;
-}*/
 
 .facebook {
-float: right;
-margin: 1em;
-}
-
-.instagram {
-	float: left;
 	margin: 1em;
 }
 
-@media only screen and (max-width: 375px) {
+.instagram {
+	margin: 1em;
+}
+@media only screen and (max-width: 751px) {
 
 /*	#logo {
 		float: none;
@@ -226,3 +220,16 @@ margin: 1em;
 		padding: 0;
 		margin: 0 auto;
 	}
+	#social_media {
+	background-color: #E4E3E8;
+	width: 35%;
+}
+
+.facebook {
+	padding: 0 1em;
+}
+
+.instagram {
+	padding: 0 1em;
+}
+
