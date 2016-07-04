@@ -180,12 +180,6 @@ footer {
 }
 @media only screen and (max-width: 751px) {
 
-/*	#logo {
-		float: none;
-	}
-	#navigation {
-		float: none;
-	}*/
 
 	#navigation {
 		width: 20%;
@@ -220,20 +214,5 @@ footer {
 		padding: 0;
 		margin: 0 auto;
 	}
-/*	#social_media {
-	background-color: #E4E3E8;
-	width: 35%;
-}*/
-
-.facebook {
-	padding: 0 1em;
-}
-
-.instagram {
-	padding: 0 1em;
-}
-
-@media only screen and (max-width: 350px) {
 
 
-}

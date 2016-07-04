@@ -1,0 +1,227 @@
+body {
+	background: #FFFFFF;
+	margin:0;
+	font-size: 16px;
+}
+.wrapper {
+	width: 100%;
+	margin: 0; 
+}
+
+header {
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 60px;
+	padding: 5px;
+}
+#logo {
+	float:left;
+	background: #FFFFFF;
+	padding-left: 20px;
+	padding-top: 10px;
+}
+.logo {
+	height: 40px;
+}
+
+.sidenav {
+	height: 55%;
+	width: 0;
+	position: absolute;
+	z-index: 1;
+	top: 70px;
+	right: 0;
+	background: #111;
+	overflow-x: hidden;
+	transition: 0.5s;
+	padding-top: 60px;
+}
+
+.sidenav a {
+	padding: 30px 10px 10px 80px;
+	text-decoration: none;
+	font-family: "FamiliarPro-Light", monospace;
+	font-size: 25px;
+	letter-spacing: 3px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+}
+
+.sidenav a:hover, .offcanvas a:focus {
+	color: #F7FF05;
+}
+.closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+}
+
+/*span {
+	-webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
+
+}
+
+span:hover {
+	background: #F7FF05;
+	border-radius: 10px;
+}*/
+/*#navigation {
+    float: right;
+}
+.hamburger_menu {
+	height: 40px;
+	margin-top: 9px;
+	margin-right: 2em;
+	padding: 5px;
+	-webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
+}
+.hamburger_menu:hover {
+	background: #F7FF05;
+	border-radius: 20px;
+}
+nav {
+	background-color: #FFFFFF;
+	font-family: "FamiliarPro-Bold", monospace;
+}
+nav a {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+	display: block;
+	font-size: 2em;
+	float: left;
+	margin-right: 0.3em;
+	padding-top: 14px;
+	letter-spacing: 0.1em;
+}*/
+/*nav a:hover {
+	background-color: #F7FF05;
+}*/
+
+#intro_row {
+    background: #F7FF05;
+    width: 100%;
+    height: 400px;
+}
+
+.hero_logo {
+	height: 250px;
+	margin: 75px 530px;
+}
+
+#skills {
+	margin: 3em auto;
+}
+
+h2 {
+	font-family: "FamiliarPro-Light", monospace;
+	font-size: 2em;
+	text-align: center;
+	letter-spacing: 0.3em;
+	margin: 0;
+	padding-top: 1em;
+}
+
+h3 {
+	font-family: "FamiliarPro-Light", monospace;
+	font-size: 1.5em;
+	text-align: center;
+	padding: 10px;
+	letter-spacing: 0.1em;
+	font-weight: lighter;
+	-webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
+}
+
+h3:hover {
+	background: #F7FF05;
+	border-radius: 30px;
+}
+
+#skills_list {
+	margin: 4% 18%;
+	padding: 3em 0 3em 0;
+}
+.skills_set {
+     height: 60px;
+     padding: 25px;
+     -webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
+
+}
+.skills_set:hover {
+	background:#F7FF05;
+	border-radius: 30px;
+}
+
+iframe {
+	width: 100%;
+	height: 350px;
+	margin-bottom: 5px;
+	border: none;
+
+}
+#projects {
+	margin: 3em auto;
+}
+
+#project_list {
+	display: block;
+}
+
+#project_1 {
+	width:40%;
+	margin: 60px 20px 0 80px;
+	float: left;
+}
+
+#project_2 {
+	width:40%;
+	margin: 60px 80px 0 20px;
+	float: right;
+}
+
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	font-size: 0;
+	clear:both;
+	height: 0;
+}
+#about_me {
+	margin: 4% 20%;
+}
+p {
+	text-align: justify;
+	line-height: 1.2em;
+	font-family: "FamiliarPro-Light", monospace;
+	margin: 10% 0 10% 0;
+}
+
+footer {
+	background: #F7FF05;
+}
+
+#contact_info {
+	margin: 1% 40%;
+
+}
+
+.social_media {
+	height: 40px;
+	padding: 20px;
+	 -webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
+}
+.social_media:hover {
+	background: #FFFFFF;
+	border-radius: 20px;
+
+}
