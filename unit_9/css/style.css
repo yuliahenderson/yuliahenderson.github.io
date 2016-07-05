@@ -160,15 +160,22 @@ margin: 0 auto;
 
 footer {
 	background-color: #E4E3E8;
-	position: relative;
+	/*position: relative;
 	width: 100%;
-	top:-1.375em;
+	top:-1.375em;*/
+}
+#contact_info {
+	background-color: #E4E3E8;
+	margin: 1% 40%;
+
 }
 
-#social_media {
-	background: #E4E3E8;
-	width: 100%;
-	margin: 0 auto;
+.social_media {
+	height: 40px;
+	padding: 20px;
+	cursor: pointer;
+	 -webkit-transition-duration: 0.4s;
+     transition-duration: 0.4s;
 }
 
 .facebook {
