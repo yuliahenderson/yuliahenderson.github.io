@@ -25,7 +25,7 @@ header {
 }
 
 .sidenav {
-	height: 55%;
+	height: 51.5%;
 	width: 0;
 	position: absolute;
 	z-index: 1;
@@ -40,7 +40,7 @@ header {
 .sidenav a {
 	padding: 30px 10px 10px 80px;
 	text-decoration: none;
-	font-family: "FamiliarPro-Light", monospace;
+	font-family: "Open Sans", sans-serif;
 	font-size: 25px;
 	letter-spacing: 3px;
 	color: #818181;
@@ -58,7 +58,12 @@ header {
 	font-size: 36px;
 	margin-left: 50px;
 }
-
+span {
+   font-size:50px; 
+   margin-right: 40px; 
+   float: right; 
+   cursor:pointer;
+}
 /*span {
 	-webkit-transition-duration: 0.4s;
      transition-duration: 0.4s;
@@ -119,8 +124,9 @@ nav a {
 }
 
 h2 {
-	font-family: "FamiliarPro-Light", monospace;
+	font-family: "Open Sans-Bold", sans-serif;
 	font-size: 2em;
+	font-weight: bold;
 	text-align: center;
 	letter-spacing: 0.3em;
 	margin: 0;
@@ -128,7 +134,7 @@ h2 {
 }
 
 h3 {
-	font-family: "FamiliarPro-Light", monospace;
+	font-family: "Open Sans", sans-serif;
 	font-size: 1.5em;
 	text-align: center;
 	padding: 10px;
@@ -157,6 +163,60 @@ h3:hover {
 .skills_set:hover {
 	background:#F7FF05;
 	border-radius: 30px;
+}
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+/* The actual popup */
+.popup .popuptext {
+    visibility: hidden;
+    font-family: "Open Sans", sans-serif;
+    width: 120px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 8px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 70%;
+    margin-left: -80px;
+}
+
+/* Popup arrow */
+.popup .popuptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+.show {
+    visibility: visible !important;
+    -webkit-animation: fadeIn 1s;
+    animation: fadeIn 1s;
+}
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity: 1;}
+}
+
+@keyframes fadeIn {
+    from {opacity: 0;}
+    to {opacity:1 ;}
 }
 
 iframe {
@@ -201,7 +261,7 @@ iframe {
 p {
 	text-align: justify;
 	line-height: 1.2em;
-	font-family: "FamiliarPro-Light", monospace;
+	font-family: "Open Sans", sans-serif;
 	margin: 10% 0 10% 0;
 }
 
@@ -217,6 +277,7 @@ footer {
 .social_media {
 	height: 40px;
 	padding: 20px;
+	cursor: pointer;
 	 -webkit-transition-duration: 0.4s;
      transition-duration: 0.4s;
 }
