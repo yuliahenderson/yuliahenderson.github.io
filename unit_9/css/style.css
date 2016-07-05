@@ -185,7 +185,7 @@ footer {
 .instagram {
 	margin: 1em;
 }
-@media only screen and (max-width: 751px) {
+@media only screen and (max-width: 351px) {
 
 
 	#navigation {
@@ -221,10 +221,15 @@ footer {
 		padding: 0;
 		margin: 0 auto;
 	}
+
+	#contact_info {
+		margin: 1%, 25%;
+	}
 	.social_media {
 	height: 30px;
 	padding: 10px;
 }
+
 
 
 
