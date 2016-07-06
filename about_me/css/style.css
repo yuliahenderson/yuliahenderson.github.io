@@ -260,6 +260,7 @@ footer {
 }
 .sidenav a {
 	padding: 0;
+	top: 53px;
 	text-align: center;
 }
 	#contact_info {
