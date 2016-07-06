@@ -264,6 +264,7 @@ footer {
 }
 iframe {
 	height: 200px;
+	overflow: hidden;
 }
 #project_1 {
 	width:100%;
