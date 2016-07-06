@@ -267,14 +267,12 @@ iframe {
 }
 #project_1 {
 	width:100%;
-	margin: 5%;
-	float: none;
+	margin: 0;
 }
 
 #project_2 {
 	width:100%;
-	margin: 5%;
-	float: none;
+	margin: 0;
 }
 #about_me {
 	margin: 4% 8%;
