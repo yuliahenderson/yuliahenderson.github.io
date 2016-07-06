@@ -25,7 +25,7 @@ header {
 }
 
 .sidenav {
-	height: 53%;
+	width: 21%;
 	width: 0;
 	position: absolute;
 	z-index: 1;
@@ -34,7 +34,8 @@ header {
 	background: #111;
 	overflow-x: hidden;
 	transition: 0.5s;
-	padding-top: 60px;
+	padding-top: 4.4%;
+	padding-bottom: 4.3%;
 }
 
 .sidenav a {
@@ -233,6 +234,7 @@ footer {
 }
 
 .social_media {
+	/*width:15%;*/
 	height: 40px;
 	padding: 20px;
 	cursor: pointer;
@@ -245,3 +247,18 @@ footer {
 
 }
 
+@media only screen and (max-width: 375px) {
+	body {
+		font-size: 12px;
+	}
+
+	#contact_info {
+	margin: 1% 15%;
+
+}
+#skills_list {
+	margin: 4% 3%;
+}
+#about_me {
+	margin: 4% 8%;
+}
