@@ -268,11 +268,13 @@ iframe {
 #project_1 {
 	width:100%;
 	margin: 5%;
+	float: none;
 }
 
 #project_2 {
 	width:100%;
 	margin: 5%;
+	float: none;
 }
 #about_me {
 	margin: 4% 8%;
