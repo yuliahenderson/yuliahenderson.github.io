@@ -251,6 +251,9 @@ footer {
 	body {
 		font-size: 12px;
 	}
+	span { 
+   margin-right: 0; 
+}
 .sidenav {
 	padding-top: 2.4%;
 	padding-bottom: 2.3%;
