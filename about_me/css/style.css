@@ -255,12 +255,12 @@ footer {
    margin-right: 0; 
 }
 .sidenav {
+	top: 53px;
 	padding-top: 2.4%;
 	padding-bottom: 2.3%;
 }
 .sidenav a {
 	padding: 0;
-	top: 53px;
 	text-align: center;
 }
 	#contact_info {
