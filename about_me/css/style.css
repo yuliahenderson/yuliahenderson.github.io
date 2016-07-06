@@ -247,7 +247,7 @@ footer {
 
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 375px) {
 	body {
 		font-size: 12px;
 	}
@@ -263,7 +263,7 @@ footer {
 	margin: 4% 3%;
 }
 iframe {
-	height: auto;
+	height: 200px;
 }
 #project_1 {
 	width:100%;
