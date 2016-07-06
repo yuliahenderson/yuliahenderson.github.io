@@ -185,11 +185,11 @@ iframe {
 }
 #projects {
 	margin: 3em auto;
+    position: relative;
 }
 
 #project_list {
 	display: block;
-	position: relative;
 }
 
 #project_1 {
