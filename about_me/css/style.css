@@ -26,7 +26,7 @@ header {
 
 .sidenav {
 	width: 21%;
-	/*width: 0;*/
+	width: 0;
 	position: absolute;
 	z-index: 1;
 	top: 70px;
@@ -251,22 +251,14 @@ footer {
 	body {
 		font-size: 12px;
 	}
-	.sidenav {
-	padding-top: 2%;
-	padding-bottom: 2%;
-}
 
 	#contact_info {
-	margin: 1% 10%;
+	margin: 1% 15%;
 
 }
 #skills_list {
 	margin: 4% 3%;
 }
-iframe {
-	height: auto;
-}
 #about_me {
 	margin: 4% 8%;
-} 
 }
