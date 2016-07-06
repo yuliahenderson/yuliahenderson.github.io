@@ -251,7 +251,10 @@ footer {
 	body {
 		font-size: 12px;
 	}
-
+.sidenav {
+	padding-top: 2.4%;
+	padding-bottom: 2.3%;
+}
 	#contact_info {
 	margin: 1% 15%;
 
@@ -259,6 +262,10 @@ footer {
 #skills_list {
 	margin: 4% 3%;
 }
+iframe {
+	height: auto;
+}
 #about_me {
 	margin: 4% 8%;
+}
 }
