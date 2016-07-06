@@ -189,6 +189,7 @@ iframe {
 
 #project_list {
 	display: block;
+	position: relative;
 }
 
 #project_1 {
