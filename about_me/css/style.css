@@ -265,6 +265,15 @@ footer {
 iframe {
 	height: auto;
 }
+#project_1 {
+	width:100%;
+	margin: 5%;
+}
+
+#project_2 {
+	width:100%;
+	margin: 5%;
+}
 #about_me {
 	margin: 4% 8%;
 }
