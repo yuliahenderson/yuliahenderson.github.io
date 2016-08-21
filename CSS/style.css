@@ -43,6 +43,20 @@ h2 {
   margin: 0;
   padding-top: 1em;
 }
+h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 0.1em;
+  font-weight: lighter;
+  -webkit-transition-duration: 0,4s;
+  transition-duration: 0.4s;
+}
+h3:hover {
+  background: #F7FF05;
+  border-radius: 30px;
+}
 #skills_list {
   margin: 4% 18%;
   padding: 3em 0 3em 0;
@@ -50,8 +64,40 @@ h2 {
 .skills_set {
   height: 60px;
   padding: 25px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
 }
 .skills_set:hover {
   background: #F7FF05;
   border-radius: 30px;
+}
+iframe {
+  width: 100%;
+  height: 350px;
+  margin-bottom: 5px;
+  border: none;
+}
+#projects {
+  margin: 3em auto;
+}
+#project_list {
+  display: block;
+}
+#project_1 {
+  width: 40%;
+  margin: 5%;
+  float: left;
+}
+#project_2 {
+  width: 40%;
+  margin: 5%;
+  float: right;
+}
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  content: " ";
+  font-size: 0;
+  clear: both;
+  height: 0;
 }
