@@ -101,3 +101,14 @@ iframe {
   clear: both;
   height: 0;
 }
+#about_me {
+  margin: 4% 20%;
+}
+p {
+  font-size: 1.1em;
+  text-align: justify;
+  line-height: 1.8em;
+  letter-spacing: 1px;
+  font-family: "Open Sans", sans-serif;
+  margin: 7% 0 8% 0;
+}
