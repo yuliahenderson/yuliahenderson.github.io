@@ -112,3 +112,20 @@ p {
   font-family: "Open Sans", sans-serif;
   margin: 7% 0 8% 0;
 }
+footer {
+  background: #F7FF05;
+}
+#contact_info {
+  margin: 1% 40%;
+}
+.social_media {
+  height: 40px;
+  padding: 20px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+}
+.social_media:hover {
+  background: #FFFFFF;
+  border-radius: 20px;
+}
