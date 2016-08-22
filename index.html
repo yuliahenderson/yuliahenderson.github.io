@@ -5,6 +5,22 @@
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="reset.css">
   <link rel="stylesheet" type="text/css" href="style.css">
+  <script type="text/javascript">
+    function openNav(){
+      document.getElementById("mySidenav").style.width = "250px";
+    }
+    function closeNav(){
+      document.getElementById("mySidenav").style.width = "0";
+    }
+  </script>
+  <script type="text/javascript">
+    function rollover(main_image) {
+      main_image.src="images/henderson_3.png";
+    }
+    function mouseaway (main_image){
+      main_image.src="images/henderson.png"
+    }
+  </script>
 </head>
 <body>
 <div class = "wrapper">
@@ -13,14 +29,16 @@
 <img class="logo" src="images/jh_logo.png">
 </div>
 <div id="mySidenav" class="sidenav">
+  <a href="#" class="closebtn" onclick="closeNav()">&#215</a>
   <a href="#about_me">About</a>
   <a href="#skills">Skills</a>
   <a href="#projects">Projects</a>
   <a href="#contact_info">Contacts</a>
 </div>
+<span onclick="openNav()">&#9776</span>
 </header>
 <section id ="intro_row">
-<img class = "hero_logo" src="images/henderson.png">
+<img class = "hero_logo" src="images/henderson.png" onmouseover="rollover(this)" onmouseout="mouseaway(this)">
 </section>
 <section id = "skills">
 <h2>SKILLS</h2>
@@ -54,11 +72,12 @@
 <footer>
   <h2>CONTACT</h2>
   <article id="contact_info">
-    <img class="social_media" src="images/email_icon.png">
-    <img class="social_media" src="images/github_icon.png">
-    <img class="social_media" src="images/linkedin_icon.png">
+    <img class="social_media" src="images/email_icon.png" onclick="window.location.href='mailto:yulia.p.henderson@gmail.com'">
+    <img class="social_media" src="images/github_icon.png" onclick="openInNewWindow1(this)">
+    <img class="social_media" src="images/linkedin_icon.png" onclick="openInNewWindow2(this)">
   </article>
 </footer>
 </div>
+<!-- <script type="text/javascript" src="script.js"></script> -->
 </body>
 </html>
