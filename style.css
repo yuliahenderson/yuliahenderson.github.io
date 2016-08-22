@@ -22,6 +22,15 @@ header {
 .logo {
   height: 2.5em;
 }
+.sidenav {
+  top:52px;
+  padding-top: 2.4%;
+  padding-bottom: 2.3%;
+}
+.sidenav a {
+  padding: 2px;
+  text-align: center;
+}
 #intro_row {
   background: #F7FF05;
   width: 100%;
