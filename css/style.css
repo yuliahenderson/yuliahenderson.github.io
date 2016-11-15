@@ -135,15 +135,15 @@ iframe {
 #project_list {
   display: block;
 }
-#project_1 {
+/*#project_1 {
   width: 40%;
   margin: 5%;
   float: left;
-}
+}*/
 #project_2 {
   width: 40%;
   margin: 5%;
-  float: right;
+/*  float: right;*/
 }
 .clearfix:after {
   visibility: hidden;
