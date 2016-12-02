@@ -182,11 +182,10 @@ footer {
   border-radius: 20px;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 780px) {
 
 #skills_list {
   margin: 4% 9%;
-  padding: 3em 0 3em 0;
   }
 .sidenav {
   padding-top: 1.2%;
@@ -197,7 +196,7 @@ footer {
 }
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 380px) {
   #skills_list {
     margin: 4% 7.3%;
   }
