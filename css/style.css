@@ -181,7 +181,7 @@ footer {
   background: #FFFFFF;
   border-radius: 20px;
 }
-@media(max-width: 600px) {
+/*@media(max-width: 600px) {
   body {
     font-size: 12px;
   }
@@ -224,6 +224,6 @@ footer {
 }
 #contact_info {
   margin: 1% 28%;
-}
+}*/
 
 
