@@ -75,7 +75,7 @@ span {
   to {opacity: 1;}
 }
 #intro_row {
-  background: #F7FF08;
+  background: #F7FF05;
   width: 100%;
   height: auto;
 }
@@ -182,7 +182,7 @@ footer {
   border-radius: 20px;
 }
 
-@media(max-width: 770px) {
+@media only screen and (max-width: 768px) {
 
 #skills_list {
   margin: 4% 9%;
