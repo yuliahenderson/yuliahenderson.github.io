@@ -184,9 +184,6 @@ footer {
 
 @media screen and (max-width: 768px) {
 
-#intro_row {
-  background: #F7FF25;
-}
 #skills_list {
   margin: 4% 9%;
   }
