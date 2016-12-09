@@ -138,6 +138,9 @@ iframe {
   margin-left: 4em;
   margin-top: 2em;
 }
+.about_project {
+  display: block;
+}
 
 #project_list {
   display: block;
