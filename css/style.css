@@ -132,6 +132,13 @@ iframe {
 #projects {
   margin: 3em auto;
 }
+
+.project_screenshot {
+  width: 450px;
+  margin-left: 4em;
+  margin-top: 2em;
+
+}
 #project_list {
   display: block;
 }
