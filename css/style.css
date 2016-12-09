@@ -208,9 +208,23 @@ footer {
 }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 375px) {
+  span {
+    font-size: 3em;
+    margin-right: 10px;
+  }
+
+  h2 {
+    font-size: 1.5em;
+    padding-top: 0;
+  }
+
   #skills_list {
     margin: 4% 7.3%;
+    padding: 1em 0 1em 0;
+  }
+  .skills_set {
+    height: 25px;
   }
   #contact_info {
     margin: 1% 35%;
