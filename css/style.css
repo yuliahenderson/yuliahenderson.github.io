@@ -137,9 +137,11 @@ iframe {
   width: 450px;
   margin-left: 4em;
   margin-top: 2em;
+  float: left;
 }
 .about_project {
   display: block;
+  float: right;
 }
 
 #project_list {
