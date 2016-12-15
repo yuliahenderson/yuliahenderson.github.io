@@ -248,7 +248,7 @@ footer {
   visibility: hidden;
   }
   .mobileShow {
-  visibility: show;
+  visibility: visible;
   }
   h3 {
   font-family: "Open Sans", sans-serif;
