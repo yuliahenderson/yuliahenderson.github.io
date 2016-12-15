@@ -246,6 +246,7 @@ footer {
   }
   .mobileHide {
   visibility: hidden;
+  display: none;
   }
   .mobileShow {
   visibility: visible;
