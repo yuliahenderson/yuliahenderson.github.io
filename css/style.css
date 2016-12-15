@@ -275,6 +275,12 @@ footer {
   span {
     margin-top: 6px;
 }
+#about_me {
+    margin: 4% 9.5%;
+    }
+#contact_info {
+    margin: 1% 16%;
+  }
 }
 
 /*@media(max-width: 600px) {
