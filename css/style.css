@@ -132,9 +132,8 @@ iframe {
 #projects {
   margin: 3em auto;
 }
-  .mobileShow {
+.mobileShow {
   visibility: hidden;
-  display: none;
   }
 
 .project_screenshot {
