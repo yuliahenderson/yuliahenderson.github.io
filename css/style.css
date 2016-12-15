@@ -132,6 +132,9 @@ iframe {
 #projects {
   margin: 3em auto;
 }
+  .mobileShow {
+  visibility: hidden;
+  }
 
 .project_screenshot {
   width: 450px;
@@ -243,6 +246,9 @@ footer {
   }
   .mobileHide {
   visibility: hidden;
+  }
+  .mobileShow {
+  visibility: show;
   }
   }
 /*@media(max-width: 600px) {
