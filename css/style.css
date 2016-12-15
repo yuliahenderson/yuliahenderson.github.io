@@ -130,7 +130,8 @@ iframe {
   border: none;
 }
 #projects {
-  margin: 3em auto;
+  /*margin: 2em auto;*/
+  margin-top: -1em;
 }
 .mobileShow {
   visibility: hidden;
