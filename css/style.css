@@ -134,6 +134,7 @@ iframe {
 }
 .mobileShow {
   visibility: hidden;
+  display: none;
   }
 
 .project_screenshot {
@@ -250,6 +251,7 @@ footer {
   }
   .mobileShow {
   visibility: visible;
+  display: block;
   }
   a {
   font-family: "Open Sans", sans-serif;
