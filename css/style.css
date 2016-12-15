@@ -241,6 +241,9 @@ footer {
   #contact_info {
     margin: 1% 35%;
   }
+  .mobileHide {
+  visibility: hidden;
+  }
   }
 /*@media(max-width: 600px) {
   body {
