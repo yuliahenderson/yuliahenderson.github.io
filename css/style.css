@@ -104,8 +104,8 @@ h2 {
   font-weight: lighter;
   -webkit-transition-duration: 0,4s;
   transition-duration: 0.4s;
-}
-h3:hover {
+}*/
+/*h3:hover {
   background: #F7FF05;
   border-radius: 30px;
 }*/
@@ -250,7 +250,16 @@ footer {
   .mobileShow {
   visibility: show;
   }
+  h3 {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.5em;
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 0.1em;
+  font-weight: lighter;
+}
   }
+
 /*@media(max-width: 600px) {
   body {
     font-size: 12px;
