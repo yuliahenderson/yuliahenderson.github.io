@@ -281,6 +281,9 @@ footer {
 #contact_info {
     margin: 1% 16%;
   }
+  h2 {
+    padding-top: 1.2em;
+  }
 }
 
 /*@media(max-width: 600px) {
