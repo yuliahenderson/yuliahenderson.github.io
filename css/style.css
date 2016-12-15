@@ -269,8 +269,12 @@ footer {
     padding: 4px 10px 12px 30px;
     font-size: 0.8em;
   }
+  #logo {
+    padding-left: 1em;
+  }
   span {
     margin-top: 6px;
+}
 }
 
 /*@media(max-width: 600px) {
